@@ -5,7 +5,7 @@ Rework of my Endless Adventure mod pack, but on Fabric.
 
 <div align="left">
 
-## :exclamation: Reminder 
+## Reminder :exclamation:
 
 <div align="center">
 
@@ -13,7 +13,7 @@ Rework of my Endless Adventure mod pack, but on Fabric.
 
 <div align="left">
 
-## :question: FAQ
+## :grey_question: FAQ
 Q: How to enable custom world genteration?
 
 A: Select the Ecotones world type when creating a world
