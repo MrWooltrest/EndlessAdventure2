@@ -5,7 +5,7 @@ Rework of my Endless Adventure mod pack, but on Fabric.
 
 <div align="left">
 
-## Reminder :exclamation:
+## :exclamation: Reminder
 
 <div align="center">
 
