@@ -1,7 +1,7 @@
 <div align="center">
 
 # Endless Adventure 2 (mainline branch)
-Rework of my Endless Adventure mod pack, but on Fabric.
+Rework of my Endless Adventure Minecraft mod pack, but on Fabric.
 
 <div align="left">
 
