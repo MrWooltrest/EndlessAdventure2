@@ -5,15 +5,14 @@ It is recommended to wait until Endless Adventure 3 is released. Now preapering 
 
 <div align="left">
 
-# :heavy_exclamation_mark: Reminder
-
-<div align="center">
+## :heavy_exclamation_mark: Reminder
 
 **Endless Adventure is only in beta, untested and non-production ready!**
 
 <div align="left">
 
-## :grey_question: FAQ
-Q: How to enable custom world genteration?
+### :grey_question: FAQ
+
+#### Q: How to enable custom world genteration?
 
 A: Select the Ecotones world type when creating a world
