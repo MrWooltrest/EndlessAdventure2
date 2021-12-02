@@ -3,6 +3,8 @@
 # Endless Adventure 2 (mainline branch)
 Rework of my Endless Adventure Minecraft mod pack, but on Fabric.
 
+It is recommended to wait until Endless Adventure 3 is released. Now preapering for [1.18](https://github.com/MrWooltrest/EndlessAdventure2/issues/1)!
+
 <div align="left">
 
 # :heavy_exclamation_mark: Reminder
