@@ -9,8 +9,6 @@ It is recommended to wait until Endless Adventure 3 is released. Now preapering 
 
 **Endless Adventure is only in beta, untested and non-production ready!**
 
-<div align="left">
-
 ### :grey_question: FAQ
 
 #### Q: How to enable custom world genteration?
